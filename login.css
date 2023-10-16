@@ -1,0 +1,56 @@
+.content{
+    background-color: lightgreen;
+}
+    .container {
+        display: flex;
+    }
+
+  
+    .content1 {
+        flex: 2; 
+        padding: 15px;
+        margin: 30px; 
+        align-items: center;
+        justify-content: center;
+        display:inline;
+        text-align: center;
+        background-color: aliceblue;
+    }
+    .content2 {
+        flex: 2; 
+        padding: 15px;
+        margin: 30px; 
+        align-items: center;
+        justify-content: center;
+        display:inline;
+        text-align: center;
+        background-color: A8E9AF;
+    }
+    .body {
+        /*text-align: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;*/
+    }
+
+    .button {
+        background-color: FFD571; /* Warna latar belakang */
+        color: white; /* Warna teks */
+        padding: 10px 20px;
+        color: black;
+    }
+    #fieldset{
+        background-color: A8E9AF;
+        border: none;
+       
+    }
+    .daftar{
+        color: red;
+    }
+    #tulisan1{
+        font-size: larger;
+        letter-spacing: 2px;
+        font-family:'Times New Roman', Times, serif
+    }
+    
